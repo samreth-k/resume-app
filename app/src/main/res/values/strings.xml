@@ -1,0 +1,6 @@
+<resources>
+    <string name="summary">&quot;A highly experienced android developer with years of professional work in android development field. Has worked with FANG companies such as Netflix and Google.&quot;</string>
+    <string name="email_to">stevenmark@gmail.com</string>
+    <string name="email_subject">Job Offer: Sr Android Developer</string>
+    <string name="email_message">Hey Steven,\n\nI\'m really interested in your application.\n\nTherefore, I would like to offer you a position of Sr Android Developer.\n\nPlease contact me back for more information regarding this offer.</string>
+</resources>
